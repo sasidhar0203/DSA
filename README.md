@@ -1,4 +1,4 @@
-# DSA
+The event management system is a software solution designed to facilitate the organization and management of various events. It provides a streamlined approach to handling event-related tasks, including event creation, attendee management, and event details retrieval. The system described in the provided code implements a basic event management functionality using various data structures and algorithms.
 #include <iostream>
 #include <unordered_map>
 #include <stack>
